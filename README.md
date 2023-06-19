@@ -1,7 +1,7 @@
 ### Hey there! I'm Samson.
 
 ### 🙋‍♂️ About Me
-🎓Studying Computer Engineering at San Francisco State University
+• 🎓Studying Computer Engineering at San Francisco State University
 
 <!--
 **sahuang3/sahuang3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
