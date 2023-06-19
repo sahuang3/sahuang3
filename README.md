@@ -1,6 +1,6 @@
-### 🙋‍♂️Hey there! I'm Samson.
+### Hey there! I'm Samson.
 
-### About Me
+### 🙋‍♂️ About Me
 🎓Studying Computer Engineering at San Francisco State University
 
 <!--
