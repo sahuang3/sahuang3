@@ -17,7 +17,7 @@
   ![Python](https://img.shields.io/badge/Python-black)
   ![Verilog](https://img.shields.io/badge/Verilog-black)
 - 👨‍💻 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?logo=visualstudiocode&logoColor=007ACC)
+  ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat&logo=visualstudiocode&logoColor=blue&color=white)
   ![Static Badge](https://img.shields.io/badge/IntelliJ-black?style=flat&logo=intellijidea&logoColor=black&color=white)
   ![Static Badge](https://img.shields.io/badge/Jupyter%20Notebook-black?style=flat&logo=jupyter&color=white)
 
