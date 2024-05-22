@@ -1,7 +1,7 @@
 ### Hey there! I'm Samson.
 
 ### About Me
-- 🎓 &nbsp; Studying Computer Engineering at San Francisco State University
+- 🎓 &nbsp; Studied Computer Engineering at San Francisco State University
 - 📚 &nbsp; Open to learning new things
 - ✍️ &nbsp; Pursuing Machine Learning and Artificial Intelligence
 - ❤️ &nbsp; Hobbies: Gaming 🎮 | Music 🎧 | Reading 📖
