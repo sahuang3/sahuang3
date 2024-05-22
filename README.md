@@ -13,6 +13,7 @@
   ![C++](https://img.shields.io/badge/C%2B%2B-black?logo=cplusplus&logoColor=007ACC)
   ![Java](https://img.shields.io/badge/Java-black)
   ![MATLAB](https://img.shields.io/badge/MATLAB-black)
+  ![Python](https://img.shields.io/badge/Python-black)
 - 👨‍💻 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?logo=visualstudiocode&logoColor=007ACC)
   ![Intellij](https://img.shields.io/badge/IntelliJ-black?logo=intellijidea)
