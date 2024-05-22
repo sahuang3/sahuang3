@@ -14,7 +14,7 @@
   ![Java](https://img.shields.io/badge/Java-black)
   ![MATLAB](https://img.shields.io/badge/MATLAB-black)
   ![Assembly](https://img.shields.io/badge/Assembly-black)
-  ![Python](https://img.shields.io/badge/Python-black)
+  ![Static Badge](https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=green&color=black)
   ![Verilog](https://img.shields.io/badge/Verilog-black)
 - 👨‍💻 &nbsp;
   ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=flat&logo=visualstudiocode&logoColor=blue&color=white)
