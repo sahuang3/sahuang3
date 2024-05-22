@@ -19,6 +19,7 @@
 - 👨‍💻 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?logo=visualstudiocode&logoColor=007ACC)
   ![Intellij](https://img.shields.io/badge/IntelliJ-black?logo=intellijidea)
+  ![Static Badge](https://img.shields.io/badge/IntelliJ-black?style=flat&logo=intellijidea&logoColor=black&color=white)
   ![Static Badge](https://img.shields.io/badge/Jupyter%20Notebook-black?style=flat&logo=jupyter&color=white)
 
 
