@@ -19,6 +19,8 @@
 - 👨‍💻 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?logo=visualstudiocode&logoColor=007ACC)
   ![Intellij](https://img.shields.io/badge/IntelliJ-black?logo=intellijidea)
+  ![Static Badge](https://img.shields.io/badge/Jupyter%20Notebook-black?style=flat&logo=jupyter&color=white)
+
 
 <!--
 **sahuang3/sahuang3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
