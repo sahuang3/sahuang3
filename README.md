@@ -21,6 +21,9 @@
   ![Static Badge](https://img.shields.io/badge/IntelliJ-black?style=flat&logo=intellijidea&logoColor=black&color=white)
   ![Static Badge](https://img.shields.io/badge/Jupyter%20Notebook-black?style=flat&logo=jupyter&color=white)
   ![Static Badge](https://img.shields.io/badge/RISC--V%20Assembler%20and%20Runtime%20Simulator-black?style=flat&logo=riscv&logoColor=blue&color=white)
+  ![Static Badge](https://img.shields.io/badge/LTspice-black?style=flat&logo=ltspice&logoColor=darkred&color=white)
+  ![Static Badge](https://img.shields.io/badge/Eagle-black?style=flat&logo=autodesk&logoColor=black&color=white)
+
 
 
 
